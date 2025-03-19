@@ -40,6 +40,16 @@
     "node_id": "REF_kwDONSEcgLlyZWZzL3RhZ3MvbmlnaHRseS0xMWMwMjNk"
   },
   {
+    "name": "nightly-1aa2d3f",
+    "zipball_url": "https://api.github.com/repos/TTF-fog/newcdn/zipball/refs/tags/nightly-1aa2d3f",
+    "tarball_url": "https://api.github.com/repos/TTF-fog/newcdn/tarball/refs/tags/nightly-1aa2d3f",
+    "commit": {
+      "sha": "f4c2ebdd722d5d586429b4fc6e015a27eaba3f05",
+      "url": "https://api.github.com/repos/TTF-fog/newcdn/commits/f4c2ebdd722d5d586429b4fc6e015a27eaba3f05"
+    },
+    "node_id": "REF_kwDONSEcgLlyZWZzL3RhZ3MvbmlnaHRseS0xYWEyZDNm"
+  },
+  {
     "name": "1",
     "zipball_url": "https://api.github.com/repos/TTF-fog/newcdn/zipball/refs/tags/1",
     "tarball_url": "https://api.github.com/repos/TTF-fog/newcdn/tarball/refs/tags/1",
